@@ -30,7 +30,7 @@ function App() {
       {games.length > 0 ? <Slider games={games} /> : <Loading />}
       {games.length > 0 ? (
         <span className="text-sm text-zinc-200 mt-2">
-          Deslize para ver mais opções &rarr;
+          Arraste para ver mais opções &rarr;
         </span>
       ) : (
         <span className="text-sm text-zinc-200 mt-2">Carregando...</span>
