@@ -12,6 +12,8 @@
   The project was made with Vite, React, Tailwind, TypeScript, Phosphoricons and Radix.
 </p>
 
+OBS: To run the project, U will need run the API to.
+
 <br />
 
 ## Installation
